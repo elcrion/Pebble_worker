@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "dolgafar",
+    "longName": "Pebble_worker",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Pebble_worker",
+    "uuid": "06db1631-6e4f-4ed3-bcc7-1e657e0802ca",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
